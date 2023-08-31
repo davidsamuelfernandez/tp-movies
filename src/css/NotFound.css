@@ -1,0 +1,36 @@
+.page_404 {
+  padding: 40px 0;
+}
+
+.page_404 img {
+  width: 100%;
+}
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+  border-radius: 30px;
+}
+
+.contant_box_404 {
+  width: 1000px;
+  margin-top: -70px;
+  text-align: center;
+}
+
+.text-404{  
+	font-family: "Courier", monospace;
+	font-size:36px;
+	font-weight: bold;   
+	text-align: center;
+	padding-top: 36px; 
+}
+
+.page_not_exist{
+    font-family: "Courier", monospace;
+	font-size:20px;   
+    text-align: center; 
+    font-weight: bold;   
+}
+

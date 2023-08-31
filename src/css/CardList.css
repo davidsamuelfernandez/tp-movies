@@ -1,0 +1,21 @@
+.MovieList{
+    position: absolute;
+    display:flex;
+    flex-wrap: wrap; /* // para indicarle que los elementos van a ir en varias lineas */ 
+    justify-content: space-between;/* // para que exista un espacio entre las columnas  */
+    padding: 0px; /* // para separarlo de los costados  */
+  }
+  
+.MovieList-item{
+  position: relative;
+  margin-bottom: 40px; /* // para separar las cards */ 
+  width: 48%; /* // para que las columnas queden separadas  */
+ }
+
+ .Pagination{
+	position: relative;
+	display:flex;
+	padding: 0px; /* // para separarlo de los costados  */
+	margin-bottom: 20px;
+	margin-left: 145px;
+  }
